@@ -1,0 +1,4 @@
+moss
+*.o
+build/
+.DS_Store
